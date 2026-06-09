@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tracenyx.ai/assets/mainlogo.png" 
+<img src="https://raw.githubusercontent.com/tracenyx/.github/main/profile/assets/nyx-mark-v2.png" 
      width="80"/>
 
 ## Tracenyx
